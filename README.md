@@ -1,3 +1,3 @@
 ## 📸 Demo
-- Live Site: https://yaseerm.me/javascript-projects/rock-paper-scissor%20web%20app/
+- Live Site: https://infoyaseer.github.io/Rock-Paper-Scissors/
 - Source Code: This repository
